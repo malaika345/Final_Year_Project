@@ -1,4 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/main_graph" />
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/homepage">
+    <fragment
+        android:id="@+id/homepage"
+        android:name="com.example.learning.fragments.Homepage"
+        android:label="fragment_homepage"
+        tools:layout="@layout/fragment_homepage" >
+        <action
+            android:id="@+id/action_homepage_to_learnAndFun"
+            app:destination="@id/learnAndFun" />
+    </fragment>
+    <fragment
+        android:id="@+id/learnAndFun"
+        android:name="com.example.learning.fragments.LearnAndFun"
+        android:label="fragment_learn_and_fun"
+        tools:layout="@layout/fragment_learn_and_fun" >
+        <action
+            android:id="@+id/action_learnAndFun_to_learn"
+            app:destination="@id/learn" />
+        <action
+            android:id="@+id/action_learnAndFun_to_homepage"
+            app:destination="@id/homepage" />
+    </fragment>
+    <fragment
+        android:id="@+id/learn"
+        android:name="com.example.learning.fragments.Learn"
+        android:label="fragment_learn"
+        tools:layout="@layout/fragment_learn" >
+        <action
+            android:id="@+id/action_learn_to_learnAndFun"
+            app:destination="@id/learnAndFun" />
+    </fragment>
+    <fragment
+        android:id="@+id/alphabet"
+        android:name="com.example.learning.fragments.AlphabetFragment"
+        android:label="fragment_alphabet"
+        tools:layout="@layout/fragment_alphabet" />
+    <fragment
+        android:id="@+id/numbers"
+        android:name="com.example.learning.fragments.Numbers"
+        android:label="fragment_numbers"
+        tools:layout="@layout/fragment_numbers" />
+</navigation>
