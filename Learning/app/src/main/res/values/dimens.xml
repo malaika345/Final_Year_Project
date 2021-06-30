@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="capital_alphabet_size">64sp</dimen>
+    <dimen name="small_alphabet_size">32sp</dimen>
+    <dimen name="txt_title_size">24sp</dimen>
+</resources>

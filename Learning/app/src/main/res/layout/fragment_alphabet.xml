@@ -8,12 +8,13 @@
     tools:context=".Alphabet">
 
     <androidx.viewpager2.widget.ViewPager2
-        android:layout_width="404dp"
-        android:layout_height="540dp"
+        android:id="@+id/viewpager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:background="@drawable/viewpage"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

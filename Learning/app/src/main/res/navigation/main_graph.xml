@@ -33,6 +33,12 @@
         <action
             android:id="@+id/action_learn_to_learnAndFun"
             app:destination="@id/learnAndFun" />
+        <action
+            android:id="@+id/action_learn_to_alphabet"
+            app:destination="@id/alphabet" />
+        <action
+            android:id="@+id/action_learn_to_numbers"
+            app:destination="@id/numbers" />
     </fragment>
     <fragment
         android:id="@+id/alphabet"
