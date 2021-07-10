@@ -1,5 +1,7 @@
 package com.example.learning.adapters
 
+import android.content.Context
+import android.view.ContextMenu
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
@@ -7,7 +9,8 @@ import com.example.learning.data.AlphabetData
 import com.example.learning.databinding.AlphabetViewPagerBinding
 
 class AlphabetViewPagerAdapter(
-    private val list: List<AlphabetData>
+    private val list: List<AlphabetData>,
+    private val context: Context
 ): RecyclerView.Adapter<AlphabetViewPagerAdapter.ViewPagerViewHolder>() {
 
     inner class ViewPagerViewHolder(
@@ -32,8 +35,9 @@ class AlphabetViewPagerAdapter(
         val currentItem = list[position]
         holder.binding.txtCapital.text = currentItem.nameChar.toString()
         holder.binding.txtSmall.text = currentItem.nameChar.lowercaseChar().toString()
-        holder.binding.txtTitle.text = currentItem.alphabetNameString[0]
-        holder.binding.imgAlphabet.setImageResource(currentItem.image)
+//
+        val adapter=InnerAlphabetViewPagerAdapter(currentItem.alphabetNameString,currentItem.image,context = context)
+        holder.binding.innerViewPager.adapter=adapter
     }
 
     override fun getItemCount() = list.size

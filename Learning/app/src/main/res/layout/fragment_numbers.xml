@@ -9,8 +9,8 @@
     tools:context=".Numbers">
 
     <androidx.viewpager2.widget.ViewPager2
-        android:layout_width="404dp"
-        android:layout_height="540dp"
+        android:layout_width="405dp"
+        android:layout_height="742dp"
         android:background="@drawable/viewpage"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

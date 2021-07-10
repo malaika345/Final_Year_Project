@@ -30,32 +30,22 @@
         app:layout_constraintStart_toEndOf="@+id/txt_capital"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <TextView
-        android:id="@+id/txt_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="24dp"
-        android:text="Apple"
-        android:textSize="@dimen/txt_title_size"
-        android:textStyle="bold"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/img_alphabet" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
-        app:layout_constraintGuide_begin="375dp" />
+        app:layout_constraintGuide_begin="346dp" />
 
-    <ImageView
-        android:id="@+id/img_alphabet"
-        android:layout_width="wrap_content"
-        android:layout_height="150dp"
-        android:scaleType="centerCrop"
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/inner_view_pager"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="@+id/guideline2"
-        tools:srcCompat="@tools:sample/avatars" />
+        app:layout_constraintTop_toTopOf="@+id/guideline2" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

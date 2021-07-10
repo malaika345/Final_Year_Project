@@ -4,6 +4,6 @@ import android.graphics.drawable.Drawable
 
 data class AlphabetData(
     val nameChar: Char,
-    val image: Int,
+    val image: ArrayList<Int>,
     val alphabetNameString : ArrayList<String>
 )
