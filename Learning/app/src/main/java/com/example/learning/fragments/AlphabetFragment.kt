@@ -1,19 +1,22 @@
 package com.example.learning.fragments
 
+import android.annotation.SuppressLint
 import android.os.Bundle
-import androidx.fragment.app.Fragment
+import android.util.Log
 import android.view.View
+import androidx.fragment.app.Fragment
 import com.example.learning.R
-import com.example.learning.R.drawable.apple1
 import com.example.learning.adapters.AlphabetViewPagerAdapter
 import com.example.learning.data.AlphabetData
 import com.example.learning.databinding.FragmentAlphabetBinding
+import kotlin.math.abs
 
 
 class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
 
     private lateinit var binding: FragmentAlphabetBinding
 
+    @SuppressLint("LogNotTimber")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentAlphabetBinding.bind(view)
@@ -258,10 +261,22 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
                 )
             ),
             )
-
+        binding.viewpager.isUserInputEnabled = false
         val adapter = AlphabetViewPagerAdapter(alphabetList,requireContext())
         binding.viewpager.adapter = adapter
+        binding.btnBack.setOnClickListener {
+            binding.viewpager.currentItem = getNextPossibleItemIndex(-1)
+        }
+        binding.btnNext.setOnClickListener {
+            binding.viewpager.currentItem = getNextPossibleItemIndex(1)
+        }
     }
-
+    private fun getNextPossibleItemIndex(change: Int): Int {
+        val currentIndex: Int = binding.viewpager.currentItem
+        val total: Int? = binding.viewpager.adapter?.itemCount
+        return if (currentIndex + change < 0) {
+            0
+        } else abs((currentIndex + change) % total!!)
+    }
 }
 
