@@ -1,0 +1,22 @@
+com/example/learning/databinding/FragmentLearnAndFunBinding.java
+ com.example.learning.databinding.FragmentLearnAndFunBinding
+com/example/learning/databinding/FragmentAlphabetBinding.java
+ com.example.learning.databinding.FragmentAlphabetBinding
+com/example/learning/databinding/FragmentHomepageBinding.java
+ com.example.learning.databinding.FragmentHomepageBinding
+com/example/learning/databinding/ActivityMainBinding.java
+ com.example.learning.databinding.ActivityMainBinding
+com/example/learning/databinding/FragmentNumbersBinding.java
+ com.example.learning.databinding.FragmentNumbersBinding
+com/example/learning/databinding/NumbersViewPagerBinding.java
+ com.example.learning.databinding.NumbersViewPagerBinding
+com/example/learning/databinding/InnerNumberViewPagerBinding.java
+ com.example.learning.databinding.InnerNumberViewPagerBinding
+com/example/learning/databinding/InnerAlphabetViewPagerBinding.java
+ com.example.learning.databinding.InnerAlphabetViewPagerBinding
+com/example/learning/BuildConfig.java
+ com.example.learning.BuildConfig
+com/example/learning/databinding/AlphabetViewPagerBinding.java
+ com.example.learning.databinding.AlphabetViewPagerBinding
+com/example/learning/databinding/FragmentLearnBinding.java
+ com.example.learning.databinding.FragmentLearnBinding

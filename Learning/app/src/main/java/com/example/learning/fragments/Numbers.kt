@@ -1,5 +1,6 @@
 package com.example.learning.fragments
 
+import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.View
@@ -9,9 +10,11 @@ import com.example.learning.databinding.FragmentNumbersBinding
 
 
 class Numbers : Fragment (R.layout.fragment_numbers) {
+
+
     private lateinit var binding: FragmentNumbersBinding
 
-
+    @SuppressLint("LogNotTimber")
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
         binding = FragmentNumbersBinding.bind(view)

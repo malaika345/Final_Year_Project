@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_homepage.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_homepage.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\numbers_view_pager.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\numbers_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\inner_number_view_pager.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\inner_number_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_learn.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_learn.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_numbers.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_numbers.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_learn_and_fun.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_learn_and_fun.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\inner_alphabet_view_pager.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\inner_alphabet_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_alphabet.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_alphabet.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\alphabet_view_pager.xml",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\alphabet_view_pager.xml"
+    }
+]

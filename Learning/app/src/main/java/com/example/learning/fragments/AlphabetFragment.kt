@@ -25,18 +25,18 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
         val alphabetList = listOf<AlphabetData>(
             AlphabetData(
                 nameChar = 'A',
-                image = arrayListOf(R.drawable.apple1, R.drawable.axe1,R.drawable.almond1),
+                image = arrayListOf(R.drawable.apple, R.drawable.ant,R.drawable.almond),
 
 
                 alphabetNameString = arrayListOf(
                     "Apple",
-                    "Axe",
+                    "Ant",
                     "Almond"
                 )
             ),
             AlphabetData(
                 nameChar = 'B',
-                image = arrayListOf(R.drawable.bag,R.drawable.ball1, R.drawable.banana),
+                image = arrayListOf(R.drawable.bag,R.drawable.ball, R.drawable.banana),
 
                 alphabetNameString = arrayListOf(
                     "Bag",
@@ -46,7 +46,7 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'C',
-                image = arrayListOf(R.drawable.cat, R.drawable.cow,R.drawable.carrot) ,
+                image = arrayListOf(R.drawable.cat1, R.drawable.cow,R.drawable.carrot) ,
                 alphabetNameString = arrayListOf(
                     "Cat",
                     "Cow",
@@ -55,16 +55,16 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'D',
-                image = arrayListOf(R.drawable.dog,R.drawable.deer,R.drawable.door),
+                image = arrayListOf(R.drawable.dog,R.drawable.drum,R.drawable.door1),
                 alphabetNameString = arrayListOf(
                     "Dog",
-                    "Deer",
+                    "Drum",
                     "Door",
                 )
             ),
             AlphabetData(
                 nameChar = 'E',
-                image = arrayListOf(R.drawable.ear,R.drawable.egg,R.drawable.elephant),
+                image = arrayListOf(R.drawable.ear2,R.drawable.egg1,R.drawable.elephant1),
                 alphabetNameString = arrayListOf(
                     "Ear",
                     "Egg",
@@ -73,45 +73,45 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'F',
-                image = arrayListOf(R.drawable.fan,R.drawable.fish,R.drawable.finger),
+                image = arrayListOf(R.drawable.fan1,R.drawable.fish1,R.drawable.flower),
                 alphabetNameString = arrayListOf(
                     "Fan",
                     "Fish",
-                    "Finger",
+                    "Flower",
                 )
             ),
             AlphabetData(
                 nameChar = 'G',
-                image = arrayListOf(R.drawable.gate, R.drawable.goat, R.drawable.grapes),
+                image = arrayListOf(R.drawable.gate1, R.drawable.giraffe, R.drawable.grapes),
                 alphabetNameString = arrayListOf(
                     "Gate",
-                    "Goat",
+                    "Giraffe",
                     "Grapes",
                 )
             ),
             AlphabetData(
                 nameChar = 'H',
-                image = arrayListOf(R.drawable.hen,R.drawable.hammer,R.drawable.horse),
+                image = arrayListOf(R.drawable.hat,R.drawable.hammer1,R.drawable.horse1),
                 alphabetNameString = arrayListOf(
-                    "Hen",
+                    "Hat",
                     "Hammer",
                     "Horse",
                 )
             ),
             AlphabetData(
                 nameChar = 'I',
-                image = arrayListOf(R.drawable.igloo,R.drawable.ice,R.drawable.insect),
+                image = arrayListOf(R.drawable.igloo1,R.drawable.ice1,R.drawable.ink),
                 alphabetNameString = arrayListOf(
                     "Igloo",
                     "Ice",
-                    "Insect",
+                    "Ink",
                 )
             ),
             AlphabetData(
                 nameChar = 'J',
-                image = arrayListOf(R.drawable.jug,R.drawable.jacket, R.drawable.jar),
+                image = arrayListOf(R.drawable.jeep,R.drawable.jacket1, R.drawable.jar),
                 alphabetNameString = arrayListOf(
-                    "Jug",
+                    "Jeep",
                     "Jacket",
                     "Jar",
                 )
@@ -136,28 +136,28 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'M',
-                image = arrayListOf(R.drawable.mango,R.drawable.mouse,R.drawable.mike),
+                image = arrayListOf(R.drawable.mango,R.drawable.mat,R.drawable.mike),
                 alphabetNameString = arrayListOf(
                     "Mango",
-                    "Mouse",
+                    "Mat",
                     "Mike",
                 )
             ),
             AlphabetData(
                 nameChar = 'N',
-                image = arrayListOf(R.drawable.nose, R.drawable.nest, R.drawable.nail),
+                image = arrayListOf(R.drawable.net, R.drawable.nest, R.drawable.nine),
                 alphabetNameString = arrayListOf(
-                    "Nose",
+                    "Net",
                     "Nest",
-                    "Nail",
+                    "Nine",
                 )
             ),
             AlphabetData(
                 nameChar = 'O',
-                image = arrayListOf(R.drawable.orange, R.drawable.onion, R.drawable.owl),
+                image = arrayListOf(R.drawable.orange, R.drawable.octopus, R.drawable.owl),
                 alphabetNameString = arrayListOf(
                     "Orange",
-                    "Onion",
+                    "Octopus",
                     "Owl",
                 )
             ),
@@ -172,34 +172,34 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'Q',
-                image = arrayListOf(R.drawable.queen, R.drawable.question, R.drawable.quill),
+                image = arrayListOf(R.drawable.queen, R.drawable.question, R.drawable.quail),
                 alphabetNameString = arrayListOf(
                     "Queen",
                     "Question",
-                    "Quill",
+                    "Quail",
                 )
             ),
             AlphabetData(
                 nameChar = 'R',
-                image = arrayListOf(R.drawable.rabbit, R.drawable.rainbow, R.drawable.ring),
+                image = arrayListOf(R.drawable.rabbit, R.drawable.rose, R.drawable.ring),
                 alphabetNameString = arrayListOf(
                     "Rabbit",
-                    "Rainbow",
+                    "Rose",
                     "Ring",
                 )
             ),
             AlphabetData(
                 nameChar = 'S',
-                image = arrayListOf(R.drawable.spoon, R.drawable.sparrow, R.drawable.star),
+                image = arrayListOf(R.drawable.snail, R.drawable.sparrow, R.drawable.star),
                 alphabetNameString = arrayListOf(
-                    "Spoon",
+                    "Snail",
                     "Sparrow",
                     "Star",
                 )
             ),
             AlphabetData(
                 nameChar = 'T',
-                image = arrayListOf( R.drawable.tree,R.drawable.ten, R.drawable.table1),
+                image = arrayListOf( R.drawable.tree,R.drawable.ten, R.drawable.table),
                 alphabetNameString = arrayListOf(
                     "Tree",
                     "Ten",
@@ -217,9 +217,9 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'V',
-                image = arrayListOf(R.drawable.van, R.drawable.vegetable, R.drawable.violin),
+                image = arrayListOf(R.drawable.vase, R.drawable.vegetable, R.drawable.violin),
                 alphabetNameString = arrayListOf(
-                    "Van",
+                    "Vase",
                     "Vegetable",
                     "Violin",
                 )
@@ -235,7 +235,7 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'X',
-                image = arrayListOf(R.drawable.xmaxtree, R.drawable.xrays,R.drawable.xylophone),
+                image = arrayListOf(R.drawable.xmaxtree, R.drawable.xray,R.drawable.xylophone),
                 alphabetNameString = arrayListOf(
                     "X-Max",
                     "X-Rays",
@@ -244,10 +244,10 @@ class AlphabetFragment : Fragment(R.layout.fragment_alphabet) {
             ),
             AlphabetData(
                 nameChar = 'Y',
-                image = arrayListOf(R.drawable.yellow, R.drawable.yoyo, R.drawable.yougurt),
+                image = arrayListOf(R.drawable.yellow, R.drawable.yarn, R.drawable.yougurt),
                 alphabetNameString = arrayListOf(
                     "Yellow",
-                    "Yo-Yo",
+                    "Yarn",
                     "Yougurt",
                 )
             ),

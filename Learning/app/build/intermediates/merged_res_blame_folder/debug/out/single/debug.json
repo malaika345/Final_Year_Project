@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_carrot.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\carrot.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\font_baloo.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\font\\baloo.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ear2.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ear2.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mike.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\mike.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\cat1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_inner_number_view_pager.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\inner_number_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jar.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\jar.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drum.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\drum.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zebra.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\zebra.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_table.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\table.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nine.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\nine.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button.jpg.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\button.jpg"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zoo.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\zoo.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hammer1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\hammer1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fish1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\fish1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_alphabet_view_pager.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\alphabet_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_elephant1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\elephant1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rabbit.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\rabbit.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_octopus.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\octopus.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_nest.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\nest.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vegetable.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\vegetable.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lamp.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\lamp.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cow.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\cow.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_peanut.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\peanut.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fan1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\fan1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lion.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\lion.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_owl.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\owl.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_homepage.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_homepage.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_xray.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\xray.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_parrot.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\parrot.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yougurt.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\yougurt.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_question.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\question.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_violin.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\violin.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_rose.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\rose.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_numbers_view_pager.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\numbers_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ice1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\ice1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ant.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ant.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yarn.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\yarn.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banana.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\banana.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dog.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\dog.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_whistle.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\whistle.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_inner_alphabet_view_pager.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\inner_alphabet_view_pager.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_apple.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\apple.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_umbrella.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\umbrella.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_book.jpg.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\book.jpg"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vase.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\vase.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ring.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\ring.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ink.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\ink.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_viewpage.jpg.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\viewpage.jpg"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_alphabet.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_alphabet.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mat.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\mat.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bag.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\bag.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_star.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\star.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grapes.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\grapes.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_numbers.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_numbers.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_abc.jpg.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\abc.jpg"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_orange.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\orange.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_almond.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\almond.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sparrow.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\sparrow.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ball.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ball.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_flower.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\flower.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_egg1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\egg1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_giraffe.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\giraffe.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_horse1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\horse1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jacket1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\jacket1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gate1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\gate1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_xmaxtree.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\xmaxtree.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_settings.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_learn.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_learn.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_help.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ic_help.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_yellow.gif.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\yellow.gif"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kite.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\kite.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_learn_and_fun.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\layout\\fragment_learn_and_fun.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_net.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\net.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_watch.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\watch.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_jeep.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\jeep.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_zero.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\zero.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_queen.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\queen.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tree.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\tree.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_snail.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\snail.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_panda.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\panda.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mango.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\mango.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\font_aclonica.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\font\\aclonica.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_kiwi.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\kiwi.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_door1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\door1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\navigation_main_graph.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\navigation\\main_graph.xml"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_key.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\key.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_xylophone.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\xylophone.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button1.jpg.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\button1.jpg"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_unzip.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\unzip.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_unicorn.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\unicorn.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hat.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\hat.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ten.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\ten.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_whale.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\whale.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_igloo1.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\igloo1.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ladder.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\ladder.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_quail.png.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable-v24\\quail.png"
+    },
+    {
+        "merged": "D:\\Final_Year_Project2\\Learning\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_forward.xml.flat",
+        "source": "D:\\Final_Year_Project2\\Learning\\app\\src\\main\\res\\drawable\\ic_arrow_forward.xml"
+    }
+]
